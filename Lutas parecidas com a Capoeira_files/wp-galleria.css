@@ -1,0 +1,26 @@
+#wp-galleria {width: 100%;}
+#wp-galleria li.galleria-photo {list-style: none; display: inline; background: none;}
+#wp-galleria li.galleria-photo a:hover {background: none; text-decoration: none;}
+#wp-galleria li.galleria-photo a img {width: 100px; border: double #cecece;}
+#wp-galleria li.galleria-photo a img:hover {width: 100px; border: double #999;}
+/*
+     FILE ARCHIVED ON 00:20:54 May 09, 2012 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 03:16:23 Sep 25, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 92.332
+  exclusion.robots: 0.093
+  exclusion.robots.policy: 0.085
+  RedisCDXSource: 1.909
+  esindex: 0.007
+  LoadShardBlock: 65.326 (3)
+  PetaboxLoader3.datanode: 88.351 (4)
+  CDXLines.iter: 22.851 (3)
+  load_resource: 190.505
+  PetaboxLoader3.resolve: 122.554
+*/
